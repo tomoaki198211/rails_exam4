@@ -1,3 +1,3 @@
 class NearestStation < ApplicationRecord
-  belongs_to :properties
+  belongs_to :property
 end
